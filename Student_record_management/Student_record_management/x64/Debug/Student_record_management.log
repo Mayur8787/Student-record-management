@@ -1,0 +1,9 @@
+﻿  Student_record_management.cpp
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\loading.h(12,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\loading.h(12,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\adminFunction.h(184,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\adminFunction.h(158,16): warning C4101: 'new_marks': unreferenced local variable
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\adminFunction.h(158,9): warning C4101: 'index': unreferenced local variable
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\adminFunction.h(157,10): warning C4101: 'sub': unreferenced local variable
+C:\Users\Mayur\source\repos\Student_record_management\Student_record_management\adminFunction.h(156,25): warning C4101: 'marks': unreferenced local variable
+  Student_record_management.vcxproj -> C:\Users\Mayur\source\repos\Student_record_management\x64\Debug\Student_record_management.exe
